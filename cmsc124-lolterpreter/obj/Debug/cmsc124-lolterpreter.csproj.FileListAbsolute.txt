@@ -1,0 +1,9 @@
+c:\users\el\documents\visual studio 2012\Projects\cmsc124-lolterpreter\cmsc124-lolterpreter\bin\Debug\cmsc124-lolterpreter.exe.config
+c:\users\el\documents\visual studio 2012\Projects\cmsc124-lolterpreter\cmsc124-lolterpreter\bin\Debug\cmsc124-lolterpreter.exe
+c:\users\el\documents\visual studio 2012\Projects\cmsc124-lolterpreter\cmsc124-lolterpreter\bin\Debug\cmsc124-lolterpreter.pdb
+c:\users\el\documents\visual studio 2012\Projects\cmsc124-lolterpreter\cmsc124-lolterpreter\obj\Debug\cmsc124-lolterpreter.csprojResolveAssemblyReference.cache
+c:\users\el\documents\visual studio 2012\Projects\cmsc124-lolterpreter\cmsc124-lolterpreter\obj\Debug\cmsc124_lolterpreter.MainWindow.resources
+c:\users\el\documents\visual studio 2012\Projects\cmsc124-lolterpreter\cmsc124-lolterpreter\obj\Debug\cmsc124_lolterpreter.Properties.Resources.resources
+c:\users\el\documents\visual studio 2012\Projects\cmsc124-lolterpreter\cmsc124-lolterpreter\obj\Debug\cmsc124-lolterpreter.csproj.GenerateResource.Cache
+c:\users\el\documents\visual studio 2012\Projects\cmsc124-lolterpreter\cmsc124-lolterpreter\obj\Debug\cmsc124-lolterpreter.exe
+c:\users\el\documents\visual studio 2012\Projects\cmsc124-lolterpreter\cmsc124-lolterpreter\obj\Debug\cmsc124-lolterpreter.pdb

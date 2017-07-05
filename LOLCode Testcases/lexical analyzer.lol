@@ -1,0 +1,71 @@
+HAI
+
+BTW comment
+
+OBTW this
+is
+SPARTA!! loljk
+TLDR
+
+I HAS A noob
+I HAS A num ITZ 12
+I HAS A numbar ITZ 12.5
+I HAS A yarn ITZ "Twelve"
+I HAS A troof ITZ WIN
+I HAS A troof2 ITZ FAIL
+
+SUM OF num AN numbar
+DIFF OF num AN numbar
+PRODUKT OF num AN numbar
+QUOSHUNT OF num AN numbar
+MOD OF num AN numbar
+BIGGR OF num AN numbar
+SMALLR OF num AN numbar
+
+BOTH OF WIN an FAIL
+EITHER OF WIN AN FAIL
+WON OF WIN AN FAIL
+NOT WIN
+
+ANY OF WIN AN FAIL MKAY
+ALL OF WIN AN FAIL MKAY
+
+BOTH SAEM num AN BIGGR OF num AN numbar
+BOTH SAEM num AN SMALLR OF num AN numbar
+BOTH DIFFRINT num AN BIGGR OF num AN numbar
+BOTH DIFFRINT num AN SMALLR OF num AN numbar
+
+SMOOSH yarn AN yarn
+
+GIMMEH var
+
+VISIBLE noob
+VISIBLE num
+VISIBLE numbar
+VISIBLE yarn
+VISIBLE troof
+
+O RLY?
+YA RLY
+VISIBLE num
+NO WAI
+VISIBLE numbar
+OIC
+
+WTF? 
+OMG 12
+VISIBLE num
+OMG 12.5
+VISIBLE numbar
+OMGWTF
+VISIBLE yarn
+OIC
+
+IM IN YR loop UPPIN YR num TIL BOTH SAEM num and 15
+IM OUTTA YR loop
+
+MAEK num A NUMBAR
+numbar IS NOW A NUM
+
+
+KTHXBYE
